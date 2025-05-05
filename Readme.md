@@ -8,17 +8,17 @@ This project showcases my skills, projects, and achievements in a visually appea
 ## 🚀 Live Preview
 
 You can view the live version of my portfolio here:  
-[Your Live Portfolio Link](https://your-portfolio-link.com)
+[Your Live Portfolio Link](https://68187ebbc53ca8d49435fed7--aesthetic-bombolone-6abc4b.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot 1](https://github.com/shIVam18004/Shivam-s_Portfolio/blob/main/port_1.png)
-![Portfolio Screenshot 2](https://github.com/shIVam18004/Shivam-s_Portfolio/blob/main/port_2.png)
-![Portfolio Screenshot 3](https://github.com/shIVam18004/Shivam-s_Portfolio/blob/main/port_3.png)
-![Portfolio Screenshot 4](https://github.com/shIVam18004/Shivam-s_Portfolio/blob/main/port_4.png)
-![Portfolio Screenshot 5](https://github.com/shIVam18004/Shivam-s_Portfolio/blob/main/port_5.png)
+![Portfolio Screenshot 1](https://github.com/shIVam18004/Shivam-s-Portfolio/blob/main/port_1.png)
+![Portfolio Screenshot 2](https://github.com/shIVam18004/Shivam-s-Portfolio/blob/main/port_2.png)
+![Portfolio Screenshot 3](https://github.com/shIVam18004/Shivam-s-Portfolio/blob/main/port_3.png)
+![Portfolio Screenshot 4](https://github.com/shIVam18004/Shivam-s-Portfolio/blob/main/port_4.png)
+![Portfolio Screenshot 5](https://github.com/shIVam18004/Shivam-s-Portfolio/blob/main/port_5.png)
 
 
 ---
@@ -84,5 +84,5 @@ Follow these steps to set up the portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shIVam18004/Shivam-s_Portfolio.git
+   git clone https://github.com/shIVam18004/Shivam-s-Portfolio.git
    cd Shivam-s_Portfolio
