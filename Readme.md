@@ -85,4 +85,4 @@ Follow these steps to set up the portfolio locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shIVam18004/Shivam-s-Portfolio.git
-   cd Shivam-s_Portfolio
+   cd Shivam-s-Portfolio
